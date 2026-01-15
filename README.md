@@ -35,10 +35,15 @@ The United States leads content production, followed by India and the United Kin
 
 ## Future Outlook Based on Analytics
 1.Netflix is expected to focus more on TV Shows and international content rather than rapid expansion of its overall library.
+
 2.Future content additions are likely to remain stable or selective rather than return to the rapid expansion seen around 2020.
+
 3.TV Shows are expected to gain a larger share of Netflix’s catalog due to their higher potential for long-term viewer engagement.
+
 4.Netflix is likely to continue prioritizing TV-MA and TV-14 content to cater to its core young-adult and mature audience.
+
 5.Documentaries and stand-up comedy are expected to remain key genres due to their lower production cost and consistent demand.
+
 
 ## Dataset
 Source: Kaggle  (Netflix dataset)
